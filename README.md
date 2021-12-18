@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParasJain8652
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Full stack web development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Software and web development
 - 📫 You can reach me at_  warwanteparas@gmail.com
 
 <!---
